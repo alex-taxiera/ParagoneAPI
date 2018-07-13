@@ -1,0 +1,26 @@
+{
+  "name": "paragone-api",
+  "version": "1.0.0",
+  "description": "Partial fan implementation of Epic Games' shuttered MOBA Paragon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-taxiera/ParagoneAPI.git"
+  },
+  "keywords": [
+    "paragon",
+    "moba",
+    "epic",
+    "games",
+    "sad"
+  ],
+  "author": "Alex Taxiera",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/alex-taxiera/ParagoneAPI/issues"
+  },
+  "homepage": "https://github.com/alex-taxiera/ParagoneAPI#readme"
+}

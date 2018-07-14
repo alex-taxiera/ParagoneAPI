@@ -15,4 +15,4 @@ const api = require('./api')
 
 app.use('/parse', server)
 app.use('/data', api)
-app.listen(8080, () => console.log('online'))
+app.listen(3000, () => console.log('online'))

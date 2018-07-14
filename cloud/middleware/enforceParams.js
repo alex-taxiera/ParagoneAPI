@@ -5,13 +5,13 @@ const enforceParams = (rules) => {
   // validation will fail, due to not specifying required values. However,
   // doing this helps us catch bugs when defining what params to enforce, since
   // we should get console output if we have typos in our definitions.
-  try {
-    ParamTypes.validateWithErrors(rules, {})
-  } catch (error) {
-    if (!error.toString().includes('was not specified in')) {
-      throw error
-    }
-  }
+  // try {
+  //   ParamTypes.checkPropTypes(rules, {})
+  // } catch (error) {
+  //   if (!error.toString().includes('was not specified in')) {
+  //     throw error
+  //   }
+  // }
 
   return async (req, res) => {
     const unexpectedParams = difference(Object.keys(req.params), Object.keys(rules))
@@ -24,7 +24,7 @@ const enforceParams = (rules) => {
     }
 
     try {
-      ParamTypes.validateWithErrors(rules, req.params)
+      ParamTypes.checkPropTypes(rules, req.params)
     } catch (error) {
       const message = error.toString()
       console.error('enforceParams:', message)
@@ -41,6 +41,7 @@ const difference = (actual, expected) => {
       actual.splice(index, 1)
     }
   }
+  return actual
 }
 
 module.exports = enforceParams

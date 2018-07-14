@@ -1,9 +1,13 @@
 /* global Parse */
+const defineEndpoint = require('./helpers/defineEndpoint.js')
 const ParamTypes = require('prop-types')
 const enforceParams = require('./middleware/enforceParams.js')
 
-Parse.Cloud.define('echo',
+defineEndpoint('echo',
+  enforceParams({
+    message: ParamTypes.string.isRequired
+  }),
   (req, res) => {
-    res.send('yolo')
+    res.success(req.params.message)
   }
 )

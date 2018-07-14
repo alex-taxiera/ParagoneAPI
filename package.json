@@ -28,6 +28,7 @@
     "dotenv": "^6.0.0",
     "express": "^4.16.3",
     "parse": "^1.11.1",
+    "parse-dashboard": "^1.2.0",
     "parse-server": "^2.8.2",
     "prop-types": "^15.6.2"
   },

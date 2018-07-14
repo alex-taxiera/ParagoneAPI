@@ -1,10 +1,10 @@
 require('dotenv').load()
 const app = require('express')()
 
-const parse = require('./cloud/server.js')
+const { server } = require('./cloud')
 const api = require('./api')
 
-app.use('/parse', parse)
+app.use('/parse', server)
 app.use('/data', api)
 app.listen(8080, () => console.log('online'))
 

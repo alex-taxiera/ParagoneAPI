@@ -70,15 +70,12 @@ if (IN_PRODUCTION) {
   const URL = SERVER_URL
   const api = express()
   const parse = express()
-  const dashboard = express()
   api.use('/', paragone)
-  parse.use('/', server)
-  dashboard.use('/', client)
+  parse.use('/server', server)
+  parse.use('/dash', client)
   api.listen(3000, () =>
     parse.listen(3010, () =>
-      dashboard.listen(3020, () =>
-        console.log(welcome(URL))
-      )
+      console.log(welcome(URL))
     )
   )
 } else {

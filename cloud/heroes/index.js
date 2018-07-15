@@ -15,7 +15,15 @@ const getHeroes = async (summary) => {
   return heroes.map(heroFull)
 }
 
+const resolveHero = async (summary, heroIdOrName) => {
+  if (heroIdOrName) {
+    return getHero(summary, heroIdOrName)
+  } else {
+    const heroes = await getHeroes(summary)
+    return Promise.all(heroes)
+  }
+}
+
 module.exports = {
-  getHero,
-  getHeroes
+  resolveHero
 }

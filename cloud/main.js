@@ -2,27 +2,15 @@
 const defineEndpoint = require('./helpers/defineEndpoint.js')
 const ParamTypes = require('prop-types')
 const enforceParams = require('./middleware/enforceParams.js')
-const {
-  getHero,
-  getHeroes
-} = require('./heroes')
+const { resolveHero } = require('./heroes')
 
 defineEndpoint('echo',
   enforceParams({
     message: ParamTypes.string.isRequired
   }),
-  (req, res) => {
-    res.success(req.params.message)
-  }
+  (req, res) => res.success(req.params.message)
 )
-const resolveHero = async (summary, heroIdOrName) => {
-  if (heroIdOrName) {
-    return getHero(summary, heroIdOrName)
-  } else {
-    const heroes = await getHeroes(summary)
-    return Promise.all(heroes)
-  }
-}
+
 defineEndpoint('heroFull',
   enforceParams({
     heroIdOrName: ParamTypes.string

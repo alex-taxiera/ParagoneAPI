@@ -1,49 +1,91 @@
 require('dotenv').load()
 const path = require('path')
-const app = require('express')()
 const ParseServer = require('parse-server').ParseServer
 const ParseDashboard = require('parse-dashboard')
-process.env.inProduction = process.env.NODE_ENV === 'production'
-process.env.PARSE_SERVER_URL = process.env.SERVER_URL + '/parse'
-process.env.PARSE_LOCAL_URL = process.env.LOCAL_URL + '/parse'
+const express = require('express')
+
+const {
+  NODE_ENV,
+  SERVER_URL,
+  LOCAL_URL,
+  API_ROUTE,
+  PARSE_ROUTE,
+  DASH_ROUTE,
+  PARSE_APP_ID,
+  PARSE_DATABASE_URI,
+  PARSE_MASTER_KEY,
+  PARSE_USER,
+  PARSE_PASS
+} = process.env
+
+const welcome = (URL) =>
+  `
+ONLINE AT ${URL}\n
+API ${URL + API_ROUTE}\n
+PARSE ${URL + PARSE_ROUTE}\n
+DASHBOARD ${URL + DASH_ROUTE}
+`
+
+const IN_PRODUCTION = NODE_ENV === 'production'
+const PARSE_SERVER_URL = SERVER_URL + PARSE_ROUTE
+const PARSE_LOCAL_URL = LOCAL_URL + PARSE_ROUTE
 
 const server = new ParseServer({
-  databaseURI: process.env.PARSE_DATABASE_URI,
-  appId: process.env.PARSE_APP_ID,
-  masterKey: process.env.PARSE_MASTER_KEY,
-  serverURL: process.env.inProduction === true ? process.env.PARSE_SERVER_URL : process.env.PARSE_LOCAL_URL,
+  databaseURI: PARSE_DATABASE_URI,
+  appId: PARSE_APP_ID,
+  masterKey: PARSE_MASTER_KEY,
+  serverURL: IN_PRODUCTION ? PARSE_SERVER_URL : PARSE_LOCAL_URL,
   cloud: path.resolve(__dirname, './cloud/main.js')
 })
 
-const dashboard = new ParseDashboard({
+const client = new ParseDashboard({
   apps: [
     {
       appName: 'ParagoneAPI-local',
-      appId: process.env.PARSE_APP_ID,
-      serverURL: process.env.PARSE_LOCAL_URL,
-      masterKey: process.env.PARSE_MASTER_KEY,
+      appId: PARSE_APP_ID,
+      serverURL: PARSE_LOCAL_URL,
+      masterKey: PARSE_MASTER_KEY,
       primaryBackgroundColor: '#575757'
     },
     {
       appName: 'ParagoneAPI-host',
-      appId: process.env.PARSE_APP_ID,
-      serverURL: process.env.PARSE_SERVER_URL,
-      masterKey: process.env.PARSE_MASTER_KEY,
+      appId: PARSE_APP_ID,
+      serverURL: PARSE_SERVER_URL,
+      masterKey: PARSE_MASTER_KEY,
       production: true,
       primaryBackgroundColor: '#177587'
     }
   ],
   users: [
     {
-      user: process.env.PARSE_USER,
-      pass: process.env.PARSE_PASS
+      user: PARSE_USER,
+      pass: PARSE_PASS
     }
   ]
 })
 
-const api = require('./api')
+const paragone = require('./api')
 
-app.use('/parse', server)
-app.use('/dashboard', dashboard)
-app.use('/', api)
-app.listen(3000, () => console.log(`ONLINE AT ${process.env.inProduction === true ? process.env.SERVER_URL : process.env.LOCAL_URL}`))
+if (IN_PRODUCTION) {
+  const URL = SERVER_URL
+  const api = express()
+  const parse = express()
+  const dashboard = express()
+  api.use('/', paragone)
+  parse.use('/', server)
+  dashboard.use('/', client)
+  api.listen(3000, () =>
+    parse.listen(3010, () =>
+      dashboard.listen(3020, () =>
+        console.log(welcome(URL))
+      )
+    )
+  )
+} else {
+  const URL = LOCAL_URL
+  const app = express()
+  app.use(PARSE_ROUTE, server)
+  app.use(DASH_ROUTE, client)
+  app.use(API_ROUTE, paragone)
+  app.listen(3000, () => console.log(welcome(URL)))
+}

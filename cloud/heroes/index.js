@@ -1,22 +1,21 @@
 /* global Parse */
 const { heroFull } = require('./helpers.js')
 
-const getHero = async (heroId) => {
-  const hero = await new Parse.Query(Parse.Object.extend('Hero')).get(heroId)
-  if (!hero) throw Error(`Could not find hero with id: ${heroId}`)
-  return hero
+const getHero = async (summary, heroIdOrName) => {
+  const hero = await new Parse.Query(Parse.Object.extend('Hero')).get(heroIdOrName)
+    .catch(() => new Parse.Query(Parse.Object.extend('Hero')).equalTo('name', heroIdOrName).first())
+  if (!hero) throw new Parse.Error(404, `Could not find hero with id or name: ${heroIdOrName}`)
+  if (summary) return hero
+  return heroFull(hero)
 }
 
-const getHeroes = async () => {
-  return new Parse.Query(Parse.Object.extend('Hero')).find()
+const getHeroes = async (summary) => {
+  const heroes = await new Parse.Query(Parse.Object.extend('Hero')).find()
+  if (summary) return heroes
+  return heroes.map(heroFull)
 }
-
-const getHeroFull = async (heroId) => heroFull(await getHero(heroId))
-const getHeroesFull = async () => (await getHeroes()).map(heroFull)
 
 module.exports = {
   getHero,
-  getHeroes,
-  getHeroFull,
-  getHeroesFull
+  getHeroes
 }

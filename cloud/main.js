@@ -4,9 +4,7 @@ const ParamTypes = require('prop-types')
 const enforceParams = require('./middleware/enforceParams.js')
 const {
   getHero,
-  getHeroes,
-  getHeroFull,
-  getHeroesFull
+  getHeroes
 } = require('./heroes')
 
 defineEndpoint('echo',
@@ -17,35 +15,26 @@ defineEndpoint('echo',
     res.success(req.params.message)
   }
 )
-
+const resolveHero = async (summary, heroIdOrName) => {
+  if (heroIdOrName) {
+    return getHero(summary, heroIdOrName)
+  } else {
+    const heroes = await getHeroes(summary)
+    return Promise.all(heroes)
+  }
+}
 defineEndpoint('heroFull',
   enforceParams({
-    heroId: ParamTypes.string
+    heroIdOrName: ParamTypes.string
   }),
-  async (req, res) => {
-    if (req.params.heroId) {
-      const hero = await getHeroFull(req.params.heroId).catch(res.error)
-      res.success(hero)
-    } else {
-      const heroes = await getHeroesFull().catch(res.error)
-      Promise.all(heroes).then((response) => res.success(response)).catch(res.error)
-    }
-  }
+  async (req, res) => resolveHero(false, req.params.heroIdOrName).then(res.success).catch(res.error)
 )
 
 defineEndpoint('heroSummary',
   enforceParams({
-    heroId: ParamTypes.string
+    heroIdOrName: ParamTypes.string
   }),
-  async (req, res) => {
-    if (req.params.heroId) {
-      const hero = await getHero(req.params.heroId).catch(res.error)
-      res.success(hero)
-    } else {
-      const heroes = await getHeroes().catch(res.error)
-      Promise.all(heroes).then((response) => res.success(response)).catch(res.error)
-    }
-  }
+  async (req, res) => resolveHero(true, req.params.heroIdOrName).then(res.success).catch(res.error)
 )
 
 defineEndpoint('importCards',
@@ -80,7 +69,8 @@ defineEndpoint('importCards',
         levels: cleanLevels
       })
     })
-    Promise.all(parseCards).then((content) => res.success(content.map((card) => ({name: card.name, id: card.id}))))
+    Promise.all(parseCards)
+      .then((content) => res.success(content.map((card) => ({name: card.name, id: card.id}))))
   }
 )
 

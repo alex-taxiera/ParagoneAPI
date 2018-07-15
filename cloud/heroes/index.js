@@ -1,18 +1,20 @@
 /* global Parse */
-const { heroFull } = require('./helpers.js')
+const { heroFull, properCase } = require('./helpers.js')
 
 const getHero = async (summary, heroIdOrName) => {
-  const hero = await new Parse.Query(Parse.Object.extend('Hero')).get(heroIdOrName)
+  let hero = await new Parse.Query(Parse.Object.extend('Hero')).get(heroIdOrName)
     .catch(() => new Parse.Query(Parse.Object.extend('Hero')).equalTo('name', heroIdOrName.toLowerCase()).first())
   if (!hero) throw new Parse.Error(404, `Could not find hero with id or name: ${heroIdOrName}`)
-  if (summary) return hero
-  return heroFull(hero)
+  if (!summary) hero = await heroFull(hero)
+  else hero = hero.toJSON()
+  return {...hero, name: properCase(hero.name)}
 }
 
 const getHeroes = async (summary) => {
-  const heroes = await new Parse.Query(Parse.Object.extend('Hero')).find()
-  if (summary) return heroes
-  return heroes.map(heroFull)
+  let heroes = await new Parse.Query(Parse.Object.extend('Hero')).find()
+  if (!summary) heroes = heroes.map(heroFull)
+  else heroes = heroes.map((hero) => hero.toJSON())
+  return Promise.all(heroes).then((heroes) => heroes.map((hero) => ({...hero, name: properCase(hero.name)})))
 }
 
 const resolveHero = async (summary, heroIdOrName) => {

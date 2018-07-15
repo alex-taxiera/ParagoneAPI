@@ -2,6 +2,12 @@
 const defineEndpoint = require('./helpers/defineEndpoint.js')
 const ParamTypes = require('prop-types')
 const enforceParams = require('./middleware/enforceParams.js')
+const {
+  getHero,
+  getHeroes,
+  getHeroFull,
+  getHeroesFull
+} = require('./heroes')
 
 defineEndpoint('echo',
   enforceParams({
@@ -12,18 +18,33 @@ defineEndpoint('echo',
   }
 )
 
-defineEndpoint('getHeroesAll',
+defineEndpoint('heroFull',
+  enforceParams({
+    heroId: ParamTypes.string
+  }),
   async (req, res) => {
-    const heroesData = await new Parse.Query(Parse.Object.extend('Hero')).find()
-    const heroes = heroesData.map(async (hero) => {
-      const json = hero.toJSON()
-      const abilities = await hero.get('abilities').query().find()
-      json.abilities = abilities.map((ability) => ability.toJSON())
-      const attributes = await hero.get('attributes').query().find()
-      json.attributes = attributes.map((attribute) => attribute.toJSON()).sort((a, b) => a.level - b.level)
-      return json
-    })
-    Promise.all(heroes).then((response) => res.success(response))
+    if (req.params.heroId) {
+      const hero = await getHeroFull(req.params.heroId).catch(res.error)
+      res.success(hero)
+    } else {
+      const heroes = await getHeroesFull().catch(res.error)
+      Promise.all(heroes).then((response) => res.success(response)).catch(res.error)
+    }
+  }
+)
+
+defineEndpoint('heroSummary',
+  enforceParams({
+    heroId: ParamTypes.string
+  }),
+  async (req, res) => {
+    if (req.params.heroId) {
+      const hero = await getHero(req.params.heroId).catch(res.error)
+      res.success(hero)
+    } else {
+      const heroes = await getHeroes().catch(res.error)
+      Promise.all(heroes).then((response) => res.success(response)).catch(res.error)
+    }
   }
 )
 

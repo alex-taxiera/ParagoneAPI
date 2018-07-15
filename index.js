@@ -4,12 +4,14 @@ const app = require('express')()
 const ParseServer = require('parse-server').ParseServer
 const ParseDashboard = require('parse-dashboard')
 process.env.inProduction = process.env.NODE_ENV === 'production'
+process.env.PARSE_SERVER_URL = process.env.SERVER_URL + '/parse'
+process.env.PARSE_LOCAL_URL = process.env.LOCAL_URL + '/parse'
 
 const server = new ParseServer({
   databaseURI: process.env.PARSE_DATABASE_URI,
   appId: process.env.PARSE_APP_ID,
   masterKey: process.env.PARSE_MASTER_KEY,
-  serverURL: process.env.inProduction === true ? process.env.SERVER_URL + '/parse' : process.env.LOCAL_URL + '/parse',
+  serverURL: process.env.inProduction === true ? process.env.PARSE_SERVER_URL : process.env.PARSE_LOCAL_URL,
   cloud: path.resolve(__dirname, './cloud/main.js')
 })
 

@@ -1,5 +1,5 @@
 module.exports = {
-  Parse: require('./parse.js'),
-  run: require('./run.js'),
-  error: require('./error.js')
+  Parse: require('./exports/parse.js'),
+  run: require('./exports/run.js'),
+  error: require('./exports/error.js')
 }

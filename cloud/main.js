@@ -59,7 +59,7 @@ defineEndpoint('importCards',
         abilities: level.abilities
       }))
       return card.save({
-        name,
+        name: name.toLowerCase(),
         rarity,
         affinity,
         trait,
@@ -82,29 +82,17 @@ defineEndpoint('importHeroes',
     const apiData = require('../data/heroes.json')
     const parseHeroes = apiData.map((data) => {
       const hero = new Hero()
-      const {
-        name,
-        attack,
-        traits,
-        scale,
-        releaseDate,
-        affinities,
-        difficulty,
-        stats,
-        attributesByLevel,
-        abilities
-      } = data
       return hero.save({
-        name,
-        attack,
-        traits,
-        scale,
-        releaseDate: new Date(releaseDate),
-        affinities,
-        difficulty,
-        stats
+        name: data.name.toLowerCase(),
+        attack: data.attack,
+        traits: data.traits,
+        scale: data.scale,
+        releaseDate: new Date(data.releaseDate),
+        affinities: data.affinities,
+        difficulty: data.difficulty,
+        stats: data.stats
       }).then(async (hero) => {
-        const parseAttributes = attributesByLevel.map((data, index) => {
+        const parseAttributes = data.attributesByLevel.map((data, index) => {
           const attribute = new Attribute()
           return attribute.save({
             level: index + 1,
@@ -122,10 +110,10 @@ defineEndpoint('importHeroes',
             energyRegenRate: data.EnergyRegenRate
           })
         })
-        const parseAbilities = abilities.map((data) => {
+        const parseAbilities = data.abilities.map((data) => {
           const ability = new Ability()
           return ability.save({
-            name: data.name,
+            name: data.name.toLowerCase(),
             description: data.description,
             shortDescription: data.shortDescription,
             type: data.type,
@@ -142,6 +130,7 @@ defineEndpoint('importHeroes',
         return hero.save()
       })
     })
-    Promise.all(parseHeroes).then((content) => res.success(content.map((hero) => ({name: hero.name, id: hero.id}))))
+    Promise.all(parseHeroes)
+      .then((content) => res.success(content.map((hero) => ({name: hero.name, id: hero.id}))))
   }
 )

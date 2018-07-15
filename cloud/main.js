@@ -70,7 +70,7 @@ defineEndpoint('importCards',
       })
     })
     Promise.all(parseCards)
-      .then((content) => res.success(content.map((card) => ({name: card.name, id: card.id}))))
+      .then((content) => res.success(content.map((card) => ({name: card.get('name'), id: card.id}))))
   }
 )
 
@@ -131,6 +131,6 @@ defineEndpoint('importHeroes',
       })
     })
     Promise.all(parseHeroes)
-      .then((content) => res.success(content.map((hero) => ({name: hero.name, id: hero.id}))))
+      .then((content) => res.success(content.map((hero) => ({name: hero.get('name'), id: hero.id}))))
   }
 )

@@ -43,7 +43,7 @@ const dashboard = new ParseDashboard({
 
 const api = require('./api')
 
-app.use('/v1/parse', server)
-app.use('/v1/dashboard', dashboard)
-app.use('/v1', api)
+app.use('/parse', server)
+app.use('/dashboard', dashboard)
+app.use('/', api)
 app.listen(3000, () => console.log(`ONLINE AT ${process.env.inProduction === true ? process.env.SERVER_URL : process.env.LOCAL_URL}`))

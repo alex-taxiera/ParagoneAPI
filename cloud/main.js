@@ -3,6 +3,14 @@ const defineEndpoint = require('./helpers/defineEndpoint.js')
 const ParamTypes = require('prop-types')
 const enforceParams = require('./middleware/enforceParams.js')
 const { resolveHero } = require('./heroes')
+const { resolveCard } = require('./cards')
+
+defineEndpoint('card',
+  enforceParams({
+    cardIdOrName: ParamTypes.string
+  }),
+  (req, res) => resolveCard(req.params.cardIdOrName).then(res.success).catch(res.error)
+)
 
 defineEndpoint('echo',
   enforceParams({

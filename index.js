@@ -9,7 +9,7 @@ const server = new ParseServer({
   databaseURI: process.env.PARSE_DATABASE_URI,
   appId: process.env.PARSE_APP_ID,
   masterKey: process.env.PARSE_MASTER_KEY,
-  serverURL: process.env.inProduction === true ? process.env.PARSE_SERVER_URL : process.env.PARSE_LOCAL_URL,
+  serverURL: process.env.inProduction === true ? process.env.SERVER_URL + '/parse' : process.env.LOCAL_URL + '/parse',
   cloud: path.resolve(__dirname, './cloud/main.js')
 })
 
@@ -41,7 +41,7 @@ const dashboard = new ParseDashboard({
 
 const api = require('./api')
 
-app.use('/parse', server)
-app.use('/dashboard', dashboard)
-app.use('/data', api)
-app.listen(3000, () => console.log('online'))
+app.use('/v1/parse', server)
+app.use('/v1/dashboard', dashboard)
+app.use('/v1', api)
+app.listen(3000, () => console.log(`ONLINE AT ${process.env.inProduction === true ? process.env.SERVER_URL : process.env.LOCAL_URL}`))

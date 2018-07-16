@@ -39,29 +39,20 @@ defineEndpoint('importCards',
     const apiData = require('../data/cards.json')
     const parseCards = apiData.map((data) => {
       const card = new Card()
-      const {
-        name,
-        rarity,
-        affinity,
-        trait,
-        intellectGemCost,
-        vitalityGemCost,
-        goldCost,
-        levels
-      } = data
-      const cleanLevels = levels.map((level, index) => ({
+      const cleanLevels = data.levels.map((level, index) => ({
         level: index + 1,
         basicAttributes: level.basicAttributes,
         abilities: level.abilities
       }))
       return card.save({
-        name: name.toLowerCase(),
-        rarity,
-        affinity,
-        trait,
-        intellectGemCost,
-        vitalityGemCost,
-        goldCost,
+        name: data.name.toLowerCase(),
+        rarity: data.rarity,
+        affinity: data.affinity,
+        trait: data.trait,
+        dexterityGemCost: data.dexterityGemCost,
+        intellectGemCost: data.intellectGemCost,
+        vitalityGemCost: data.vitalityGemCost,
+        goldCost: data.goldCost,
         levels: cleanLevels
       })
     })

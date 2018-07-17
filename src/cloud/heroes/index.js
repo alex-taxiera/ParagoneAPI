@@ -7,14 +7,12 @@ const getHero = async (summary, heroIdOrName) => {
   if (!hero) throw new Parse.Error(404, `Could not find hero with id or name: ${heroIdOrName}`)
   if (!summary) return heroFull(hero)
   return heroSummary(hero)
-  return {...hero, name: properCase(hero.name)}
 }
 
 const getHeroes = async (summary) => {
   let heroes = await new Parse.Query(Parse.Object.extend('Hero')).find()
   if (!summary) heroes = heroes.map(heroFull)
-  else heroes = heroes.map((hero) => hero.toJSON())
-  return Promise.all(heroes).then((heroes) => heroes.map((hero) => ({...hero, name: properCase(hero.name)})))
+  return heroes.map(heroSummary)
 }
 
 const resolveHero = async (summary, heroIdOrName) => {

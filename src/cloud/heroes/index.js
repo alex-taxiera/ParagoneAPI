@@ -11,7 +11,7 @@ const getHero = async (summary, heroIdOrName) => {
 
 const getHeroes = async (summary) => {
   let heroes = await new Parse.Query(Parse.Object.extend('Hero')).find()
-  if (!summary) heroes = heroes.map(heroFull)
+  if (!summary) return heroes.map(heroFull)
   return heroes.map(heroSummary)
 }
 

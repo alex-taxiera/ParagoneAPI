@@ -15,14 +15,12 @@ const runCloud = async (req, res) => {
     }
   }
   return runner(req, res)
-    .then((content) => res.send(content))
+    .then((content) => res.json(content))
     .catch((err) => res.status(err.code).send(err.message))
 }
 
 heroes.get('/', runCloud)
-
 heroes.get('/:type', runCloud)
-
 heroes.get('/:type/:heroIdOrName', runCloud)
 
 module.exports = heroes

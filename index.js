@@ -68,6 +68,7 @@ const paragone = require('./src/api/v1')
 
 if (IN_PRODUCTION) {
   const v1 = express()
+  v1.set('json spaces', 2)
   const parse = express()
   v1.use('/', paragone)
   parse.use('/server', server)
@@ -79,6 +80,7 @@ if (IN_PRODUCTION) {
   )
 } else {
   const app = express()
+  app.set('json spaces', 2)
   app.use(PARSE_ROUTE, server)
   app.use(DASH_ROUTE, client)
   app.use(API_ROUTE, paragone)

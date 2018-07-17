@@ -36,7 +36,7 @@ defineEndpoint('heroSummary',
 defineEndpoint('importCards',
   (req, res) => {
     const Card = Parse.Object.extend('Card')
-    const apiData = require('../data/cards.json')
+    const apiData = require('../../data/cards.json')
     const parseCards = apiData.map((data) => {
       const card = new Card()
       const cleanLevels = data.levels.map((level, index) => ({
@@ -66,7 +66,7 @@ defineEndpoint('importHeroes',
     const Hero = Parse.Object.extend('Hero')
     const Ability = Parse.Object.extend('Ability')
     const Attribute = Parse.Object.extend('Attribute')
-    const apiData = require('../data/heroes.json')
+    const apiData = require('../../data/heroes.json')
     const parseHeroes = apiData.map((data) => {
       const hero = new Hero()
       return hero.save({

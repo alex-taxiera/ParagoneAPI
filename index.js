@@ -64,7 +64,7 @@ const client = new ParseDashboard({
   ]
 })
 
-const paragone = require('./api')
+const paragone = require('./src/api')
 
 if (IN_PRODUCTION) {
   const URL = SERVER_URL

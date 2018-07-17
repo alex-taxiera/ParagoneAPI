@@ -1,5 +1,5 @@
 const cards = require('express').Router()
-const { run } = require('../cloud')
+const { run } = require('../../cloud')
 
 const runCloud = async (req, res) => {
   return run('card', {cardIdOrName: req.params.cardIdOrName})

@@ -64,15 +64,15 @@ const client = new ParseDashboard({
   ]
 })
 
-const paragone = require('./src/api')
+const paragone = require('./src/api/v1')
 
 if (IN_PRODUCTION) {
-  const api = express()
+  const v1 = express()
   const parse = express()
-  api.use('/', paragone)
+  v1.use('/', paragone)
   parse.use('/server', server)
   parse.use('/dash', client)
-  api.listen(3000, () =>
+  v1.listen(3000, () =>
     parse.listen(3010, () =>
       console.log(welcome(SERVER_URL))
     )

@@ -67,7 +67,6 @@ const client = new ParseDashboard({
 const paragone = require('./src/api')
 
 if (IN_PRODUCTION) {
-  const URL = SERVER_URL
   const api = express()
   const parse = express()
   api.use('/', paragone)
@@ -75,14 +74,13 @@ if (IN_PRODUCTION) {
   parse.use('/dash', client)
   api.listen(3000, () =>
     parse.listen(3010, () =>
-      console.log(welcome(URL))
+      console.log(welcome(SERVER_URL))
     )
   )
 } else {
-  const URL = LOCAL_URL
   const app = express()
   app.use(PARSE_ROUTE, server)
   app.use(DASH_ROUTE, client)
   app.use(API_ROUTE, paragone)
-  app.listen(3000, () => console.log(welcome(URL)))
+  app.listen(3000, () => console.log(welcome(LOCAL_URL)))
 }

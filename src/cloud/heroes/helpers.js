@@ -20,10 +20,17 @@ const heroFull = async (hero) => {
     .sort((a, b) => abilityPriority(a.type) - abilityPriority(b.type))
   const attributes = await hero.get('attributes').query().find()
   json.attributes = attributes.map((attribute) => attribute.toJSON()).sort((a, b) => a.level - b.level)
-  return json
+  return {...json, name: properCase(json.name)}
+}
+
+const heroSummary = async (hero) => {
+  const json = hero.toJSON()
+  delete json.abilities
+  delete json.attributes
+  return {...json, name: properCase(json.name)}
 }
 
 module.exports = {
   heroFull,
-  properCase
+  heroSummary
 }

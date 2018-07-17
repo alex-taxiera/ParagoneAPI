@@ -35,7 +35,7 @@ const server = new ParseServer({
   appId: PARSE_APP_ID,
   masterKey: PARSE_MASTER_KEY,
   serverURL: IN_PRODUCTION ? PARSE_SERVER_URL : PARSE_LOCAL_URL,
-  cloud: path.resolve(__dirname, './cloud/main.js')
+  cloud: path.resolve(__dirname, './src/cloud/main.js')
 })
 
 const client = new ParseDashboard({

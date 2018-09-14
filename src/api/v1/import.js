@@ -11,7 +11,7 @@ const runCloud = async (req, res) => {
   }
   return runner(req, res)
     .then((content) => res.send(content))
-    .catch((err) => res.status(err.code).send(err.message))
+    .catch((err) => res.status(err.code).send(err))
 }
 
 importers.get('/:type', runCloud)

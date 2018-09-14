@@ -16,7 +16,7 @@ const runCloud = async (req, res) => {
   }
   return runner(req, res)
     .then((content) => res.json(content))
-    .catch((err) => res.status(err.code).send(err.message))
+    .catch((err) => res.status(err.code).send(err))
 }
 
 heroes.get('/', runCloud)

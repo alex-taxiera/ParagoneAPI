@@ -10,7 +10,7 @@ const getCard = async (cardIdOrName) => {
 }
 
 const getCards = async () => {
-  let cards = new Parse.Query(Parse.Object.extend('Card')).find()
+  let cards = await new Parse.Query(Parse.Object.extend('Card')).find()
   cards = cards.map((card) => card.toJSON())
   return cards.map((card) => ({ ...card, name: properCase(card.name) }))
 }
@@ -19,8 +19,7 @@ const resolveCard = async (cardIdOrName) => {
   if (cardIdOrName) {
     return getCard(cardIdOrName)
   } else {
-    const cards = await getCards()
-    return Promise.all(cards)
+    return getCards()
   }
 }
 

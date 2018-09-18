@@ -10,7 +10,8 @@ const getCard = async (cardIdOrName) => {
 }
 
 const getCards = async () => {
-  const cards = new Parse.Query(Parse.Object.extend('Card')).find().map((card) => card.toJSON())
+  let cards = new Parse.Query(Parse.Object.extend('Card')).find()
+  cards = cards.map((card) => card.toJSON())
   return cards.map((card) => ({ ...card, name: properCase(card.name) }))
 }
 

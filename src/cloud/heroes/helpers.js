@@ -1,4 +1,4 @@
-/* global Parse */
+const properCase = require('../helpers/properCase.js')
 
 const abilityPriority = (type) => {
   switch (type) {
@@ -9,8 +9,6 @@ const abilityPriority = (type) => {
     case 'Ultimate': return 5
   }
 }
-
-const properCase = (string) => string.split(' ').map((lower) => lower.replace(/^\w/, c => c.toUpperCase())).join(' ')
 
 const heroFull = async (hero) => {
   const json = hero.toJSON()

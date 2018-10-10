@@ -22,4 +22,4 @@ app.set('json spaces', 2)
 app.use(API_ROUTE, paragone)
 app.use(IMAGE_ROUTE, express.static(join(__dirname, 'images')))
 
-app.listen(3000, () => console.log(`ONLINE AT ${URL}\nAPI ${URL + API_ROUTE}\nIMAGES AT ${URL + IMAGE_ROUTE}`))
+app.listen(PORT, () => console.log(`ONLINE AT ${URL}\nAPI ${URL + API_ROUTE}\nIMAGES AT ${URL + IMAGE_ROUTE}`))

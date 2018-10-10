@@ -4,6 +4,7 @@
   "description": "Partial fan implementation of Epic Games' shuttered MOBA Paragon.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node bin/dev.js"
   },
@@ -25,14 +26,18 @@
   },
   "homepage": "https://github.com/alex-taxiera/ParagoneAPI#readme",
   "dependencies": {
-    "dotenv": "^6.0.0",
     "express": "^4.16.3",
-    "parse": "^1.11.1",
-    "parse-dashboard": "^1.2.0",
-    "parse-server": "^2.8.2",
     "prop-types": "^15.6.2"
   },
   "devDependencies": {
-    "nodemon": "^1.18.2"
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.1.0",
+    "eslint": "^5.6.1",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "nodemon": "^1.18.4"
   }
 }

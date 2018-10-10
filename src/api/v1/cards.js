@@ -1,14 +1,15 @@
 const cards = require('express').Router()
-const { run } = require('../../cloud')
+const paragone = require('../paragone')
 
-const runCloud = async (req, res) => {
-  return run('card', {cardIdOrName: req.params.cardIdOrName})
-    .then((content) => res.send(content))
-    .catch((err) => res.status(err.code).send(err))
-}
+cards.get('/', (req, res) => res.json(paragone.getCards()))
 
-cards.get('/', runCloud)
-
-cards.get('/:cardIdOrName', runCloud)
+cards.get('/:cardId', (req, res) => {
+  const card = paragone.getCard(req.params.cardId)
+  if (!card) {
+    res.json(404, `no card found for id: ${req.params.cardId}`)
+  } else {
+    res.json(card)
+  }
+})
 
 module.exports = cards

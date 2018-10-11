@@ -27,6 +27,7 @@
   "homepage": "https://github.com/alex-taxiera/ParagoneAPI#readme",
   "dependencies": {
     "express": "^4.16.3",
+    "express-sslify": "^1.2.0",
     "prop-types": "^15.6.2"
   },
   "devDependencies": {

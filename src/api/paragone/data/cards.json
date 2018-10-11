@@ -211,6 +211,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/DB9B79227A3DB87ADCFE4741D0E5C345F64B01B9.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/outlander%20scout/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/outlander%20scout/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/outlander%20scout/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/outlander%20scout/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/outlander%20scout/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/outlander%20scout/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/outlander%20scout/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/outlander%20scout/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/outlander%20scout/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/outlander%20scout/10.png"
     ]
   },
   {
@@ -365,6 +377,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/09FE3605ED72212312C46B13EA24A2F76042D323.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/advanced%20evolution/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/advanced%20evolution/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/advanced%20evolution/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/advanced%20evolution/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/advanced%20evolution/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/advanced%20evolution/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/advanced%20evolution/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/advanced%20evolution/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/advanced%20evolution/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/advanced%20evolution/10.png"
     ]
   },
   {
@@ -619,6 +643,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/4A186E7F1B3F135E6FE145F6034512720ECBF82E.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/compensator%20rig/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/compensator%20rig/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/compensator%20rig/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/compensator%20rig/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/compensator%20rig/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/compensator%20rig/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/compensator%20rig/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/compensator%20rig/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/compensator%20rig/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/compensator%20rig/10.png"
     ]
   },
   {
@@ -773,6 +809,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/B845CF06836DAC1C9796A1BC125F7FF6125B0AB3.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/growth%20totem/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/growth%20totem/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/growth%20totem/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/growth%20totem/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/growth%20totem/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/growth%20totem/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/growth%20totem/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/growth%20totem/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/growth%20totem/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/growth%20totem/10.png"
     ]
   },
   {
@@ -927,6 +975,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/94082B10BD586F32D411D3FD27D40864D7C4B469.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lamp%20lighter/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lamp%20lighter/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lamp%20lighter/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lamp%20lighter/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lamp%20lighter/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lamp%20lighter/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lamp%20lighter/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lamp%20lighter/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lamp%20lighter/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lamp%20lighter/10.png"
     ]
   },
   {
@@ -1081,6 +1141,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/873FC7FCB4ED1AD3A4EBD702D1B5C2A956B85D90.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/rejuvenator/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/rejuvenator/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/rejuvenator/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/rejuvenator/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/rejuvenator/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/rejuvenator/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/rejuvenator/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/rejuvenator/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/rejuvenator/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/rejuvenator/10.png"
     ]
   },
   {
@@ -1395,6 +1467,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/189AE6E8ACBA95B81F2FA987B7E2BF5F5FEE1956.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/woundseeker/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/woundseeker/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/woundseeker/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/woundseeker/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/woundseeker/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/woundseeker/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/woundseeker/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/woundseeker/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/woundseeker/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/woundseeker/10.png"
     ]
   },
   {
@@ -1749,6 +1833,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/B74A265D842A10F140B5A481CAA6B7C2274BA190.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/godmother%20vigilant/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/godmother%20vigilant/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/godmother%20vigilant/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/godmother%20vigilant/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/godmother%20vigilant/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/godmother%20vigilant/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/godmother%20vigilant/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/godmother%20vigilant/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/godmother%20vigilant/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/godmother%20vigilant/10.png"
     ]
   },
   {
@@ -1903,6 +1999,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/90841C01B71DFE4799C732F6E4241DCA10DEC422.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/generator/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/generator/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/generator/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/generator/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/generator/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/generator/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/generator/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/generator/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/generator/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/generator/10.png"
     ]
   },
   {
@@ -2157,6 +2265,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/F48F27B1E98AE7AC1DD74B9EC85627BA39B24B45.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/trapper/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/trapper/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/trapper/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/trapper/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/trapper/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/trapper/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/trapper/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/trapper/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/trapper/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/trapper/10.png"
     ]
   },
   {
@@ -2311,6 +2431,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/93FCB93FA62441E91CF46F6B5D7F58CE4A5EF148.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/hellfire%20engine/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/hellfire%20engine/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/hellfire%20engine/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/hellfire%20engine/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/hellfire%20engine/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/hellfire%20engine/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/hellfire%20engine/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/hellfire%20engine/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/hellfire%20engine/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/hellfire%20engine/10.png"
     ]
   },
   {
@@ -2625,6 +2757,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/664323375D6A9C961847A7FF114EB9A4B2AB3F40.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thaumaturge/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thaumaturge/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thaumaturge/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thaumaturge/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thaumaturge/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thaumaturge/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thaumaturge/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thaumaturge/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thaumaturge/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thaumaturge/10.png"
     ]
   },
   {
@@ -2879,6 +3023,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/6FA52095DD3505C2324CBCDE15737F5E0693DFB5.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/stagnant%20dominion/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/stagnant%20dominion/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/stagnant%20dominion/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/stagnant%20dominion/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/stagnant%20dominion/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/stagnant%20dominion/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/stagnant%20dominion/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/stagnant%20dominion/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/stagnant%20dominion/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/stagnant%20dominion/10.png"
     ]
   },
   {
@@ -3173,6 +3329,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/F397175A4BAD7778E73FF44DB200E7F432F25E58.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/reactor%20beast/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/reactor%20beast/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/reactor%20beast/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/reactor%20beast/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/reactor%20beast/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/reactor%20beast/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/reactor%20beast/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/reactor%20beast/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/reactor%20beast/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/reactor%20beast/10.png"
     ]
   },
   {
@@ -3327,6 +3495,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/78E2DB8D7A235B8D4A1B92BE463200F0BE01EDDD.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/cull%20the weak/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/cull%20the weak/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/cull%20the weak/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/cull%20the weak/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/cull%20the weak/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/cull%20the weak/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/cull%20the weak/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/cull%20the weak/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/cull%20the weak/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/cull%20the weak/10.png"
     ]
   },
   {
@@ -3581,6 +3761,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/7C8560B7F62DEA94BDA2EE0E5EDC187455A353F1.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vengeful%20mire/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vengeful%20mire/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vengeful%20mire/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vengeful%20mire/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vengeful%20mire/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vengeful%20mire/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vengeful%20mire/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vengeful%20mire/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vengeful%20mire/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vengeful%20mire/10.png"
     ]
   },
   {
@@ -3735,6 +3927,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/301501E9B7F047480759695C570D69F0BBDF721F.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/demolitionist/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/demolitionist/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/demolitionist/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/demolitionist/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/demolitionist/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/demolitionist/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/demolitionist/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/demolitionist/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/demolitionist/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/demolitionist/10.png"
     ]
   },
   {
@@ -3889,6 +4093,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/3DF6B6C17A4F73031ED404AA58E62CDB4ECDE988.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/armored%20footman/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/armored%20footman/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/armored%20footman/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/armored%20footman/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/armored%20footman/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/armored%20footman/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/armored%20footman/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/armored%20footman/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/armored%20footman/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/armored%20footman/10.png"
     ]
   },
   {
@@ -4143,6 +4359,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/60BF68A886C5DB9621601B466AB7A5756543FD76.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vital%20waters/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vital%20waters/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vital%20waters/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vital%20waters/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vital%20waters/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vital%20waters/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vital%20waters/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vital%20waters/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vital%20waters/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vital%20waters/10.png"
     ]
   },
   {
@@ -4437,6 +4665,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/CC6061527FEE0DD6DF3D5EC0014C72841DEC4778.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/o.p.d.%20militia/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/o.p.d.%20militia/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/o.p.d.%20militia/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/o.p.d.%20militia/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/o.p.d.%20militia/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/o.p.d.%20militia/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/o.p.d.%20militia/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/o.p.d.%20militia/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/o.p.d.%20militia/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/o.p.d.%20militia/10.png"
     ]
   },
   {
@@ -4691,6 +4931,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/09CC9A758C491404EDFCA9D021B5F19FD76CC511.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/coursing%20zephyr/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/coursing%20zephyr/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/coursing%20zephyr/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/coursing%20zephyr/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/coursing%20zephyr/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/coursing%20zephyr/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/coursing%20zephyr/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/coursing%20zephyr/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/coursing%20zephyr/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/coursing%20zephyr/10.png"
     ]
   },
   {
@@ -5045,6 +5297,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/7D2184CBD4289DC2861C5F513112EEAB044CD5DB.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/knight%20of ashur/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/knight%20of ashur/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/knight%20of ashur/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/knight%20of ashur/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/knight%20of ashur/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/knight%20of ashur/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/knight%20of ashur/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/knight%20of ashur/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/knight%20of ashur/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/knight%20of ashur/10.png"
     ]
   },
   {
@@ -5199,6 +5463,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/7A4AEFBE14717AAB5A6190FDFA864B1BA4D455D7.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/living%20guardian/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/living%20guardian/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/living%20guardian/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/living%20guardian/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/living%20guardian/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/living%20guardian/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/living%20guardian/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/living%20guardian/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/living%20guardian/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/living%20guardian/10.png"
     ]
   },
   {
@@ -5453,6 +5729,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/924065C78553CC088DECB381B4AC8C337933F76B.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/unstable%20cyborg/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/unstable%20cyborg/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/unstable%20cyborg/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/unstable%20cyborg/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/unstable%20cyborg/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/unstable%20cyborg/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/unstable%20cyborg/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/unstable%20cyborg/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/unstable%20cyborg/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/unstable%20cyborg/10.png"
     ]
   },
   {
@@ -5707,6 +5995,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/7E8EDC65A17EBB0F5F41E1EB1BAC6CA51E6A5018.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/wetware%20virus/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/wetware%20virus/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/wetware%20virus/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/wetware%20virus/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/wetware%20virus/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/wetware%20virus/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/wetware%20virus/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/wetware%20virus/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/wetware%20virus/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/wetware%20virus/10.png"
     ]
   },
   {
@@ -5921,6 +6221,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/79EAD5BEA00BF8D27D004C8EAF2B01CCA46BC246.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/radiant%20healer/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/radiant%20healer/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/radiant%20healer/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/radiant%20healer/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/radiant%20healer/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/radiant%20healer/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/radiant%20healer/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/radiant%20healer/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/radiant%20healer/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/radiant%20healer/10.png"
     ]
   },
   {
@@ -6175,6 +6487,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/1F31146244DC7F5F37E8178D787D3F0FD34BBC5F.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/possessed%20spry-kin/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/possessed%20spry-kin/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/possessed%20spry-kin/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/possessed%20spry-kin/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/possessed%20spry-kin/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/possessed%20spry-kin/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/possessed%20spry-kin/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/possessed%20spry-kin/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/possessed%20spry-kin/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/possessed%20spry-kin/10.png"
     ]
   },
   {
@@ -6429,6 +6753,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/5E75D9122E4F828DF555F737165B10E97B57E5AC.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/swift%20hunter/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/swift%20hunter/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/swift%20hunter/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/swift%20hunter/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/swift%20hunter/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/swift%20hunter/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/swift%20hunter/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/swift%20hunter/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/swift%20hunter/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/swift%20hunter/10.png"
     ]
   },
   {
@@ -6683,6 +7019,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/11FF8290714548071DAB50742D6A48B7D7959461.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sorvukk%20initiate/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sorvukk%20initiate/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sorvukk%20initiate/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sorvukk%20initiate/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sorvukk%20initiate/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sorvukk%20initiate/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sorvukk%20initiate/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sorvukk%20initiate/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sorvukk%20initiate/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sorvukk%20initiate/10.png"
     ]
   },
   {
@@ -6937,6 +7285,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/28BDD0376F96D34DEBDE2BC1525A030A08BDF26F.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/echelon%20soldier/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/echelon%20soldier/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/echelon%20soldier/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/echelon%20soldier/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/echelon%20soldier/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/echelon%20soldier/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/echelon%20soldier/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/echelon%20soldier/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/echelon%20soldier/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/echelon%20soldier/10.png"
     ]
   },
   {
@@ -7251,6 +7611,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/8560214184EBDCA1899786787EDC9EA632DA4FDC.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thundercleaver/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thundercleaver/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thundercleaver/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thundercleaver/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thundercleaver/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thundercleaver/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thundercleaver/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thundercleaver/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thundercleaver/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thundercleaver/10.png"
     ]
   },
   {
@@ -7545,6 +7917,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/E46BEC6A8CFADCAD73719729DF1224C53278FAF2.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/veil%20stepper/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/veil%20stepper/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/veil%20stepper/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/veil%20stepper/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/veil%20stepper/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/veil%20stepper/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/veil%20stepper/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/veil%20stepper/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/veil%20stepper/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/veil%20stepper/10.png"
     ]
   },
   {
@@ -7799,6 +8183,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/F8AD84F86A0D541CB2ED2EE52627080C33E3842E.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pressure%20hunter/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pressure%20hunter/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pressure%20hunter/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pressure%20hunter/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pressure%20hunter/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pressure%20hunter/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pressure%20hunter/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pressure%20hunter/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pressure%20hunter/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pressure%20hunter/10.png"
     ]
   },
   {
@@ -8053,6 +8449,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/37382F54C199B2CDA3FDF9E22552A5E5F70A0549.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20prayer/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20prayer/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20prayer/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20prayer/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20prayer/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20prayer/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20prayer/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20prayer/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20prayer/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20prayer/10.png"
     ]
   },
   {
@@ -8207,6 +8615,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/2A45C3EF7D398B8F181C64B67027CC608FCC09D5.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/taskmaster/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/taskmaster/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/taskmaster/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/taskmaster/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/taskmaster/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/taskmaster/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/taskmaster/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/taskmaster/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/taskmaster/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/taskmaster/10.png"
     ]
   },
   {
@@ -8421,6 +8841,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/1CED9020369A9CA8FE9EC471E23769B4D324804C.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20grace/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20grace/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20grace/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20grace/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20grace/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20grace/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20grace/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20grace/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20grace/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20grace/10.png"
     ]
   },
   {
@@ -8675,6 +9107,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/C494836E007439EBA9DF87B426A02465E4A03F98.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/cryo%20agent/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/cryo%20agent/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/cryo%20agent/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/cryo%20agent/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/cryo%20agent/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/cryo%20agent/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/cryo%20agent/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/cryo%20agent/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/cryo%20agent/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/cryo%20agent/10.png"
     ]
   },
   {
@@ -8829,6 +9273,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/01E10F89507480F729733043D47A3C422E4D33BB.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/accelerator/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/accelerator/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/accelerator/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/accelerator/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/accelerator/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/accelerator/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/accelerator/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/accelerator/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/accelerator/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/accelerator/10.png"
     ]
   },
   {
@@ -9083,6 +9539,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/D8F6FDF220586C270642BB4BF8A8D1CC1DF5BAE8.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pensive%20shaman/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pensive%20shaman/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pensive%20shaman/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pensive%20shaman/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pensive%20shaman/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pensive%20shaman/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pensive%20shaman/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pensive%20shaman/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pensive%20shaman/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pensive%20shaman/10.png"
     ]
   },
   {
@@ -9357,6 +9825,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/F7B7621A418E7E57ADDEE2D5B18DDEBD4682208F.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/flag%20bearer/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/flag%20bearer/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/flag%20bearer/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/flag%20bearer/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/flag%20bearer/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/flag%20bearer/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/flag%20bearer/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/flag%20bearer/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/flag%20bearer/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/flag%20bearer/10.png"
     ]
   },
   {
@@ -9611,6 +10091,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/6C3E15320DADED8CEE148E07D894D4904721BAE2.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/heavy%20hitter/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/heavy%20hitter/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/heavy%20hitter/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/heavy%20hitter/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/heavy%20hitter/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/heavy%20hitter/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/heavy%20hitter/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/heavy%20hitter/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/heavy%20hitter/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/heavy%20hitter/10.png"
     ]
   },
   {
@@ -9825,6 +10317,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/1307E6EDC5636A3E2E08999DE5B729E98CCEADC9.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vanguard%20captain/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vanguard%20captain/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vanguard%20captain/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vanguard%20captain/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vanguard%20captain/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vanguard%20captain/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vanguard%20captain/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vanguard%20captain/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vanguard%20captain/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vanguard%20captain/10.png"
     ]
   },
   {
@@ -10099,6 +10603,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/9A8BFBFC25535E814EDC4A992A4B8B910414CBC1.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tyrant/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tyrant/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tyrant/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tyrant/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tyrant/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tyrant/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tyrant/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tyrant/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tyrant/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tyrant/10.png"
     ]
   },
   {
@@ -10353,6 +10869,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/4F9A0ED2E40830385557899F252A10B4D65C8F73.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/grinning%20spectre/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/grinning%20spectre/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/grinning%20spectre/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/grinning%20spectre/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/grinning%20spectre/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/grinning%20spectre/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/grinning%20spectre/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/grinning%20spectre/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/grinning%20spectre/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/grinning%20spectre/10.png"
     ]
   },
   {
@@ -10507,6 +11035,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/01324B6DA794E34D277E804452C41224E1649600.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/power%20tap/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/power%20tap/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/power%20tap/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/power%20tap/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/power%20tap/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/power%20tap/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/power%20tap/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/power%20tap/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/power%20tap/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/power%20tap/10.png"
     ]
   },
   {
@@ -10761,6 +11301,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/D8118579C5EA7799EEF4CEF10D89A3ABD69A5C0A.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/swamp%20stalker/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/swamp%20stalker/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/swamp%20stalker/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/swamp%20stalker/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/swamp%20stalker/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/swamp%20stalker/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/swamp%20stalker/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/swamp%20stalker/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/swamp%20stalker/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/swamp%20stalker/10.png"
     ]
   },
   {
@@ -11055,6 +11607,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/1F22AEAE4AEBBCBCF4A75875B7B55BA7DD2E4786.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk%20gnasher/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk%20gnasher/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk%20gnasher/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk%20gnasher/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk%20gnasher/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk%20gnasher/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk%20gnasher/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk%20gnasher/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk%20gnasher/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk%20gnasher/10.png"
     ]
   },
   {
@@ -11349,6 +11913,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/4CDB8BBAA5E3F98275B4E0656231BAAA3D13502B.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/form%20of grubbish/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/form%20of grubbish/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/form%20of grubbish/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/form%20of grubbish/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/form%20of grubbish/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/form%20of grubbish/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/form%20of grubbish/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/form%20of grubbish/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/form%20of grubbish/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/form%20of grubbish/10.png"
     ]
   },
   {
@@ -11603,6 +12179,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/922F220265B64E15A66AE6A90CE9981D3244231F.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/march%20of the mallenk/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/march%20of the mallenk/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/march%20of the mallenk/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/march%20of the mallenk/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/march%20of the mallenk/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/march%20of the mallenk/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/march%20of the mallenk/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/march%20of the mallenk/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/march%20of the mallenk/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/march%20of the mallenk/10.png"
     ]
   },
   {
@@ -11817,6 +12405,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/FA3DD63B1CAF63B0FEE5C50A5ABFE8C991CED9B6.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/greenspring/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/greenspring/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/greenspring/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/greenspring/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/greenspring/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/greenspring/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/greenspring/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/greenspring/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/greenspring/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/greenspring/10.png"
     ]
   },
   {
@@ -12031,6 +12631,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/7C794A5D76351D3A5B2A47B695C69711B9DD07B3.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/protective%20sentry/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/protective%20sentry/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/protective%20sentry/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/protective%20sentry/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/protective%20sentry/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/protective%20sentry/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/protective%20sentry/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/protective%20sentry/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/protective%20sentry/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/protective%20sentry/10.png"
     ]
   },
   {
@@ -12185,6 +12797,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/759A917340D24A81FBD6E052D9D0BFABC28DC573.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/battle%20shepherd/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/battle%20shepherd/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/battle%20shepherd/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/battle%20shepherd/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/battle%20shepherd/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/battle%20shepherd/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/battle%20shepherd/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/battle%20shepherd/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/battle%20shepherd/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/battle%20shepherd/10.png"
     ]
   },
   {
@@ -12439,6 +13063,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/215E7462FB8D9D5C877C0E938030C520892297BE.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/song%20of the sentinel/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/song%20of the sentinel/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/song%20of the sentinel/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/song%20of the sentinel/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/song%20of the sentinel/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/song%20of the sentinel/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/song%20of the sentinel/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/song%20of the sentinel/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/song%20of the sentinel/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/song%20of the sentinel/10.png"
     ]
   },
   {
@@ -12693,6 +13329,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/DC206B0666CDFAF9A32D346E784F521667029ECB.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/soldier%20of fortune/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/soldier%20of fortune/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/soldier%20of fortune/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/soldier%20of fortune/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/soldier%20of fortune/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/soldier%20of fortune/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/soldier%20of fortune/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/soldier%20of fortune/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/soldier%20of fortune/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/soldier%20of fortune/10.png"
     ]
   },
   {
@@ -12947,6 +13595,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/A5CB75B30C92DD4091BB481DD45FCE5CBF164AAD.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/brilliant%20fortification/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/brilliant%20fortification/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/brilliant%20fortification/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/brilliant%20fortification/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/brilliant%20fortification/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/brilliant%20fortification/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/brilliant%20fortification/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/brilliant%20fortification/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/brilliant%20fortification/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/brilliant%20fortification/10.png"
     ]
   },
   {
@@ -13241,6 +13901,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/144C69DCE3F345296BBB33F0C21BF1C14F2ACD42.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/red%20zone/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/red%20zone/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/red%20zone/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/red%20zone/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/red%20zone/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/red%20zone/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/red%20zone/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/red%20zone/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/red%20zone/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/red%20zone/10.png"
     ]
   },
   {
@@ -13395,6 +14067,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/7EBD40266EF63D1F69EFC02F9590A2501BEF4C05.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/exoskeleton/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/exoskeleton/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/exoskeleton/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/exoskeleton/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/exoskeleton/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/exoskeleton/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/exoskeleton/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/exoskeleton/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/exoskeleton/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/exoskeleton/10.png"
     ]
   },
   {
@@ -13609,6 +14293,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/0063E7845612992A16A76433A028B4FEA488DAC6.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nitroboost/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nitroboost/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nitroboost/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nitroboost/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nitroboost/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nitroboost/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nitroboost/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nitroboost/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nitroboost/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nitroboost/10.png"
     ]
   },
   {
@@ -13863,6 +14559,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/3223AD62AA5455F5CF37FEE3200902D205C5E348.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shatter%20golem/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shatter%20golem/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shatter%20golem/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shatter%20golem/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shatter%20golem/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shatter%20golem/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shatter%20golem/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shatter%20golem/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shatter%20golem/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shatter%20golem/10.png"
     ]
   },
   {
@@ -14117,6 +14825,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/74ABE3B3DD8861BF58EF688A4B49205F5846709D.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/wicked%20riposte/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/wicked%20riposte/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/wicked%20riposte/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/wicked%20riposte/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/wicked%20riposte/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/wicked%20riposte/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/wicked%20riposte/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/wicked%20riposte/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/wicked%20riposte/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/wicked%20riposte/10.png"
     ]
   },
   {
@@ -14411,6 +15131,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/FB23D03508CF083A30C73B2D644E6BC649E40D88.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/unbroken%20spirit/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/unbroken%20spirit/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/unbroken%20spirit/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/unbroken%20spirit/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/unbroken%20spirit/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/unbroken%20spirit/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/unbroken%20spirit/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/unbroken%20spirit/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/unbroken%20spirit/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/unbroken%20spirit/10.png"
     ]
   },
   {
@@ -14665,6 +15397,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/437BC307EF2D1E582EF284ECF3D78553D73C0872.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/atomic%20soldier/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/atomic%20soldier/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/atomic%20soldier/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/atomic%20soldier/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/atomic%20soldier/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/atomic%20soldier/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/atomic%20soldier/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/atomic%20soldier/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/atomic%20soldier/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/atomic%20soldier/10.png"
     ]
   },
   {
@@ -14879,6 +15623,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/53B9DCAD25DBEC56D9BC4DEE1F13D0D97DAF6DE3.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/flame%20of zechin/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/flame%20of zechin/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/flame%20of zechin/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/flame%20of zechin/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/flame%20of zechin/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/flame%20of zechin/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/flame%20of zechin/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/flame%20of zechin/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/flame%20of zechin/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/flame%20of zechin/10.png"
     ]
   },
   {
@@ -15233,6 +15989,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/6C8FFD7ED67D7A1A15A2B51636CB7DF324085EEC.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vampiric%20blade/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vampiric%20blade/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vampiric%20blade/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vampiric%20blade/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vampiric%20blade/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vampiric%20blade/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vampiric%20blade/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vampiric%20blade/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vampiric%20blade/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/vampiric%20blade/10.png"
     ]
   },
   {
@@ -15547,6 +16315,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/A65A6A1C6C6FEF497E402AD50832E5E991B0077A.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/gates%20of salvation/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/gates%20of salvation/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/gates%20of salvation/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/gates%20of salvation/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/gates%20of salvation/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/gates%20of salvation/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/gates%20of salvation/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/gates%20of salvation/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/gates%20of salvation/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/gates%20of salvation/10.png"
     ]
   },
   {
@@ -15801,6 +16581,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/A4BEBA6F6868E2C579C6C6B4948C719BD615938A.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/the%20mother tree/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/the%20mother tree/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/the%20mother tree/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/the%20mother tree/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/the%20mother tree/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/the%20mother tree/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/the%20mother tree/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/the%20mother tree/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/the%20mother tree/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/the%20mother tree/10.png"
     ]
   },
   {
@@ -16055,6 +16847,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/715F322090918E76096CDBA22705FC74B11C058C.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/apex%20predator/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/apex%20predator/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/apex%20predator/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/apex%20predator/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/apex%20predator/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/apex%20predator/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/apex%20predator/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/apex%20predator/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/apex%20predator/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/apex%20predator/10.png"
     ]
   },
   {
@@ -16309,6 +17113,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/058797750F501E4807DC817E41AF3F340DE7B844.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pestilence/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pestilence/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pestilence/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pestilence/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pestilence/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pestilence/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pestilence/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pestilence/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pestilence/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pestilence/10.png"
     ]
   },
   {
@@ -16463,6 +17279,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/A5A8B56762A1E929123E2A2F672302CB920E666E.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/coinmaster/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/coinmaster/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/coinmaster/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/coinmaster/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/coinmaster/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/coinmaster/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/coinmaster/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/coinmaster/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/coinmaster/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/coinmaster/10.png"
     ]
   },
   {
@@ -16717,6 +17545,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/ED37D27FE91EAD3E6F25B28DAB89E1F7645B50A1.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/withering%20shadow/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/withering%20shadow/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/withering%20shadow/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/withering%20shadow/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/withering%20shadow/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/withering%20shadow/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/withering%20shadow/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/withering%20shadow/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/withering%20shadow/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/withering%20shadow/10.png"
     ]
   },
   {
@@ -16971,6 +17811,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/B94153473A1E698A9C10027012CCB83F749FC968.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/deathcrawler/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/deathcrawler/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/deathcrawler/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/deathcrawler/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/deathcrawler/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/deathcrawler/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/deathcrawler/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/deathcrawler/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/deathcrawler/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/deathcrawler/10.png"
     ]
   },
   {
@@ -17185,6 +18037,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/0EB30857AF484639411F7D6E3763C2104BFE588A.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/glycerin%20dawn/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/glycerin%20dawn/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/glycerin%20dawn/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/glycerin%20dawn/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/glycerin%20dawn/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/glycerin%20dawn/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/glycerin%20dawn/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/glycerin%20dawn/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/glycerin%20dawn/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/glycerin%20dawn/10.png"
     ]
   },
   {
@@ -17539,6 +18403,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/E5B1E04BD0FD2CC494CE960DA3FCFA2763BE049B.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/plague%20lord mallenk/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/plague%20lord mallenk/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/plague%20lord mallenk/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/plague%20lord mallenk/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/plague%20lord mallenk/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/plague%20lord mallenk/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/plague%20lord mallenk/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/plague%20lord mallenk/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/plague%20lord mallenk/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/plague%20lord mallenk/10.png"
     ]
   },
   {
@@ -17793,6 +18669,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/9E31CF5C555CC4D5EDF3BD0B4BD999BE193F5A50.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nukeblood%20mutant/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nukeblood%20mutant/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nukeblood%20mutant/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nukeblood%20mutant/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nukeblood%20mutant/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nukeblood%20mutant/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nukeblood%20mutant/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nukeblood%20mutant/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nukeblood%20mutant/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nukeblood%20mutant/10.png"
     ]
   },
   {
@@ -18047,6 +18935,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/39554A8BF6A690F2FECF86AD988D57B7D3DB289F.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/static%20trap/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/static%20trap/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/static%20trap/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/static%20trap/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/static%20trap/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/static%20trap/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/static%20trap/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/static%20trap/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/static%20trap/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/static%20trap/10.png"
     ]
   },
   {
@@ -18201,6 +19101,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/453E85EF94FF977B7B7BFBB58E3B63F3E3C51F56.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tireless%20reaper/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tireless%20reaper/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tireless%20reaper/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tireless%20reaper/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tireless%20reaper/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tireless%20reaper/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tireless%20reaper/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tireless%20reaper/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tireless%20reaper/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tireless%20reaper/10.png"
     ]
   },
   {
@@ -18455,6 +19367,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/D1D60A05D3798CDA65CB659ECBFD330EBAF4F835.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20tribute/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20tribute/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20tribute/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20tribute/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20tribute/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20tribute/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20tribute/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20tribute/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20tribute/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mallenk's%20tribute/10.png"
     ]
   },
   {
@@ -18709,6 +19633,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/797BE7A081008B034D65D77B61886411D4FDE1A9.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/spry-kin/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/spry-kin/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/spry-kin/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/spry-kin/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/spry-kin/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/spry-kin/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/spry-kin/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/spry-kin/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/spry-kin/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/spry-kin/10.png"
     ]
   },
   {
@@ -18923,6 +19859,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/50A3B10B7324DA8F18A75DDC890B28AD0C3CB78E.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lord%20volstok/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lord%20volstok/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lord%20volstok/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lord%20volstok/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lord%20volstok/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lord%20volstok/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lord%20volstok/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lord%20volstok/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lord%20volstok/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lord%20volstok/10.png"
     ]
   },
   {
@@ -19137,6 +20085,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/736953F42AD94617ECEF430F007A6A570EA28F97.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/warlock's%20burden/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/warlock's%20burden/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/warlock's%20burden/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/warlock's%20burden/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/warlock's%20burden/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/warlock's%20burden/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/warlock's%20burden/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/warlock's%20burden/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/warlock's%20burden/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/warlock's%20burden/10.png"
     ]
   },
   {
@@ -19291,6 +20251,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/3FE815590CE6E9AC479E11EBCC8F6A9FCE3A957A.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/font%20of experience/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/font%20of experience/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/font%20of experience/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/font%20of experience/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/font%20of experience/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/font%20of experience/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/font%20of experience/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/font%20of experience/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/font%20of experience/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/font%20of experience/10.png"
     ]
   },
   {
@@ -19505,6 +20477,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/72AE8DBEE0E499CD809F2D2F38C770E18CC31230.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/devastation/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/devastation/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/devastation/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/devastation/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/devastation/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/devastation/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/devastation/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/devastation/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/devastation/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/devastation/10.png"
     ]
   },
   {
@@ -19719,6 +20703,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/D3BB662C33C0FAD23D519DAF304E420A09800448.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mana-flow%20acolyte/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mana-flow%20acolyte/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mana-flow%20acolyte/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mana-flow%20acolyte/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mana-flow%20acolyte/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mana-flow%20acolyte/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mana-flow%20acolyte/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mana-flow%20acolyte/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mana-flow%20acolyte/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/mana-flow%20acolyte/10.png"
     ]
   },
   {
@@ -19973,6 +20969,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/A418525014304D33962BA29E0ED8CACF5C8DDCF9.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thorned%20yomi/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thorned%20yomi/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thorned%20yomi/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thorned%20yomi/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thorned%20yomi/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thorned%20yomi/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thorned%20yomi/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thorned%20yomi/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thorned%20yomi/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/thorned%20yomi/10.png"
     ]
   },
   {
@@ -20227,6 +21235,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/DBFD0ECAEA70675C3E60D936DEAEF665723C5FFC.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/riot%20sapper/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/riot%20sapper/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/riot%20sapper/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/riot%20sapper/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/riot%20sapper/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/riot%20sapper/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/riot%20sapper/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/riot%20sapper/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/riot%20sapper/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/riot%20sapper/10.png"
     ]
   },
   {
@@ -20381,6 +21401,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/E05684EB9E8E90AAF0E84C7E212F9405298FB8E2.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/chanting%20shaman/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/chanting%20shaman/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/chanting%20shaman/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/chanting%20shaman/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/chanting%20shaman/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/chanting%20shaman/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/chanting%20shaman/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/chanting%20shaman/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/chanting%20shaman/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/chanting%20shaman/10.png"
     ]
   },
   {
@@ -20635,6 +21667,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/D09E686A24C362CFDAADF3DA5ADFB6D9A363B79E.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/dune%20winds/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/dune%20winds/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/dune%20winds/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/dune%20winds/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/dune%20winds/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/dune%20winds/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/dune%20winds/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/dune%20winds/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/dune%20winds/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/dune%20winds/10.png"
     ]
   },
   {
@@ -20849,6 +21893,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/EEBED5B41C61BAA57698D25A471876AFEF586A41.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/invader%20mage/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/invader%20mage/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/invader%20mage/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/invader%20mage/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/invader%20mage/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/invader%20mage/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/invader%20mage/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/invader%20mage/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/invader%20mage/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/invader%20mage/10.png"
     ]
   },
   {
@@ -21143,6 +22199,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/7512001868E36B3F02B24776E40DDD070EC0F4E9.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/awaken%20the emeric/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/awaken%20the emeric/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/awaken%20the emeric/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/awaken%20the emeric/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/awaken%20the emeric/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/awaken%20the emeric/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/awaken%20the emeric/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/awaken%20the emeric/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/awaken%20the emeric/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/awaken%20the emeric/10.png"
     ]
   },
   {
@@ -21397,6 +22465,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/3B619602CB6A54B5934DC0F88B74B8978227AD86.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/one%20of the tribe/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/one%20of the tribe/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/one%20of the tribe/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/one%20of the tribe/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/one%20of the tribe/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/one%20of the tribe/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/one%20of the tribe/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/one%20of the tribe/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/one%20of the tribe/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/one%20of the tribe/10.png"
     ]
   },
   {
@@ -21611,6 +22691,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/2E6F7268F5B67842683F404513E4C3CFFF037F80.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lightstep%20vanguard/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lightstep%20vanguard/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lightstep%20vanguard/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lightstep%20vanguard/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lightstep%20vanguard/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lightstep%20vanguard/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lightstep%20vanguard/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lightstep%20vanguard/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lightstep%20vanguard/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/lightstep%20vanguard/10.png"
     ]
   },
   {
@@ -21825,6 +22917,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/EAA2DA603205504270AD059CC176D673FAF4D14F.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/profiteer/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/profiteer/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/profiteer/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/profiteer/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/profiteer/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/profiteer/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/profiteer/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/profiteer/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/profiteer/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/profiteer/10.png"
     ]
   },
   {
@@ -21979,6 +23083,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/683047078578C7322661672BD14B21985654397D.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/poised%20aggressor/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/poised%20aggressor/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/poised%20aggressor/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/poised%20aggressor/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/poised%20aggressor/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/poised%20aggressor/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/poised%20aggressor/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/poised%20aggressor/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/poised%20aggressor/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/poised%20aggressor/10.png"
     ]
   },
   {
@@ -22193,6 +23309,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/7DE6113FCD99527E507BC9746F8EE49FC2B32E8C.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/astral%20leap/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/astral%20leap/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/astral%20leap/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/astral%20leap/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/astral%20leap/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/astral%20leap/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/astral%20leap/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/astral%20leap/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/astral%20leap/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/astral%20leap/10.png"
     ]
   },
   {
@@ -22487,6 +23615,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/1D968DB3074FA3170C6CC5C2A3332D176C159D00.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/yomi%20guardian/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/yomi%20guardian/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/yomi%20guardian/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/yomi%20guardian/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/yomi%20guardian/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/yomi%20guardian/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/yomi%20guardian/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/yomi%20guardian/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/yomi%20guardian/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/yomi%20guardian/10.png"
     ]
   },
   {
@@ -22701,6 +23841,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/FBBC6A1A120DCA92001CD85BDD6762110F2563C5.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/highwayman/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/highwayman/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/highwayman/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/highwayman/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/highwayman/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/highwayman/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/highwayman/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/highwayman/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/highwayman/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/highwayman/10.png"
     ]
   },
   {
@@ -22995,6 +24147,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/30F785FB397636D8BF5E94DB412AD2A65C43E187.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/domain%20of stillness/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/domain%20of stillness/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/domain%20of stillness/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/domain%20of stillness/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/domain%20of stillness/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/domain%20of stillness/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/domain%20of stillness/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/domain%20of stillness/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/domain%20of stillness/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/domain%20of stillness/10.png"
     ]
   },
   {
@@ -23209,6 +24373,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/78181961F0B12CE577B9FC99FA36DED12495BACB.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pack%20leader/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pack%20leader/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pack%20leader/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pack%20leader/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pack%20leader/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pack%20leader/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pack%20leader/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pack%20leader/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pack%20leader/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/pack%20leader/10.png"
     ]
   },
   {
@@ -23463,6 +24639,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/87CAECE0DD6E3E36180281681E9843DE5F048520.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shadow%20dancer/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shadow%20dancer/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shadow%20dancer/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shadow%20dancer/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shadow%20dancer/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shadow%20dancer/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shadow%20dancer/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shadow%20dancer/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shadow%20dancer/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shadow%20dancer/10.png"
     ]
   },
   {
@@ -23757,6 +24945,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/3AD7E5477EA9941DAF3D7E7D4E9D8DFD09846E70.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nameless%20curse/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nameless%20curse/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nameless%20curse/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nameless%20curse/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nameless%20curse/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nameless%20curse/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nameless%20curse/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nameless%20curse/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nameless%20curse/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/nameless%20curse/10.png"
     ]
   },
   {
@@ -24051,6 +25251,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/5129D58CBC5E48A5DA1EF78CB5CC06EA7864656E.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/black%20ice routine/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/black%20ice routine/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/black%20ice routine/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/black%20ice routine/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/black%20ice routine/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/black%20ice routine/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/black%20ice routine/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/black%20ice routine/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/black%20ice routine/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/black%20ice routine/10.png"
     ]
   },
   {
@@ -24305,6 +25517,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/D79D7E4BBE23DFAA0A90C8F68D176C92CB649252.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/finder%20of playthings/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/finder%20of playthings/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/finder%20of playthings/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/finder%20of playthings/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/finder%20of playthings/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/finder%20of playthings/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/finder%20of playthings/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/finder%20of playthings/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/finder%20of playthings/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/finder%20of playthings/10.png"
     ]
   },
   {
@@ -24559,6 +25783,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/A5199BFFFDAA400BC8F52CC9F63EADD22DE179AC.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/crippling%20glare/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/crippling%20glare/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/crippling%20glare/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/crippling%20glare/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/crippling%20glare/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/crippling%20glare/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/crippling%20glare/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/crippling%20glare/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/crippling%20glare/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/crippling%20glare/10.png"
     ]
   },
   {
@@ -24813,6 +26049,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/57F202BFCB4251BEF3A807BEEA0A20167F52FDFD.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/blitzrush/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/blitzrush/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/blitzrush/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/blitzrush/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/blitzrush/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/blitzrush/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/blitzrush/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/blitzrush/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/blitzrush/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/blitzrush/10.png"
     ]
   },
   {
@@ -25027,6 +26275,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/28E3EB2248509B3BD9A46ED1FB4D9101720BE820.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sand%20speeder/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sand%20speeder/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sand%20speeder/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sand%20speeder/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sand%20speeder/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sand%20speeder/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sand%20speeder/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sand%20speeder/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sand%20speeder/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sand%20speeder/10.png"
     ]
   },
   {
@@ -25241,6 +26501,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/E79302DCA8067A7A66A44FCC35E296F56AB7DB52.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/guard%20piercer/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/guard%20piercer/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/guard%20piercer/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/guard%20piercer/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/guard%20piercer/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/guard%20piercer/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/guard%20piercer/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/guard%20piercer/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/guard%20piercer/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/guard%20piercer/10.png"
     ]
   },
   {
@@ -25495,6 +26767,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/B75120CB126F44E6B41658E7A55B5CBF7B3BE92F.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/yomi%20spectre/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/yomi%20spectre/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/yomi%20spectre/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/yomi%20spectre/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/yomi%20spectre/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/yomi%20spectre/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/yomi%20spectre/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/yomi%20spectre/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/yomi%20spectre/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/yomi%20spectre/10.png"
     ]
   },
   {
@@ -25649,6 +26933,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/4EABB134D31E9823AAB3545FE8015FE3D030A8F7.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tower%20strider/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tower%20strider/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tower%20strider/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tower%20strider/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tower%20strider/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tower%20strider/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tower%20strider/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tower%20strider/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tower%20strider/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/tower%20strider/10.png"
     ]
   },
   {
@@ -25903,6 +27199,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/10AF522C34DDDBE0B23E8771E7C42A3B3AE7BD81.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/supply%20sergeant/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/supply%20sergeant/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/supply%20sergeant/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/supply%20sergeant/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/supply%20sergeant/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/supply%20sergeant/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/supply%20sergeant/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/supply%20sergeant/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/supply%20sergeant/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/supply%20sergeant/10.png"
     ]
   },
   {
@@ -26157,6 +27465,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/227ECB088BC54A338EF6606BF892D506143ACE95.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/amplification%20engineer/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/amplification%20engineer/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/amplification%20engineer/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/amplification%20engineer/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/amplification%20engineer/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/amplification%20engineer/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/amplification%20engineer/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/amplification%20engineer/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/amplification%20engineer/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/amplification%20engineer/10.png"
     ]
   },
   {
@@ -26411,6 +27731,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/B701524B4F0622D9908E6360EBC8C2B71B647974.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/arcane%20dancer/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/arcane%20dancer/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/arcane%20dancer/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/arcane%20dancer/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/arcane%20dancer/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/arcane%20dancer/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/arcane%20dancer/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/arcane%20dancer/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/arcane%20dancer/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/arcane%20dancer/10.png"
     ]
   },
   {
@@ -26705,6 +28037,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/633E4BF6E02AB26678647819A0BA1DC5ED49CDA8.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sacred%20alchemy/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sacred%20alchemy/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sacred%20alchemy/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sacred%20alchemy/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sacred%20alchemy/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sacred%20alchemy/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sacred%20alchemy/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sacred%20alchemy/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sacred%20alchemy/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sacred%20alchemy/10.png"
     ]
   },
   {
@@ -26959,6 +28303,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/5E2E87FC7AA5A5EC5E3612E53429AAA05BC85A82.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sleeper%20agent/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sleeper%20agent/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sleeper%20agent/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sleeper%20agent/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sleeper%20agent/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sleeper%20agent/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sleeper%20agent/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sleeper%20agent/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sleeper%20agent/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/sleeper%20agent/10.png"
     ]
   },
   {
@@ -27213,6 +28569,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/D13A860A606F6C1BC2C254F89983AD1DF822300C.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/overclocked%20droid/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/overclocked%20droid/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/overclocked%20droid/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/overclocked%20droid/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/overclocked%20droid/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/overclocked%20droid/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/overclocked%20droid/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/overclocked%20droid/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/overclocked%20droid/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/overclocked%20droid/10.png"
     ]
   },
   {
@@ -27367,6 +28735,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/450BB5141CDAB37919482C12E11021D4EACA4433.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shipyard%20scavenger/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shipyard%20scavenger/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shipyard%20scavenger/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shipyard%20scavenger/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shipyard%20scavenger/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shipyard%20scavenger/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shipyard%20scavenger/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shipyard%20scavenger/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shipyard%20scavenger/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/shipyard%20scavenger/10.png"
     ]
   },
   {
@@ -27621,6 +29001,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/63EE7ACC4AA1402C0EBAADE806A4F7820FBD9633.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/numbing%20rogue/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/numbing%20rogue/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/numbing%20rogue/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/numbing%20rogue/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/numbing%20rogue/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/numbing%20rogue/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/numbing%20rogue/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/numbing%20rogue/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/numbing%20rogue/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/numbing%20rogue/10.png"
     ]
   },
   {
@@ -27875,6 +29267,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/DF4543489BA8CB298A6E9CE22D05FA42DA0F3D68.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/corrosive%20walker/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/corrosive%20walker/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/corrosive%20walker/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/corrosive%20walker/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/corrosive%20walker/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/corrosive%20walker/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/corrosive%20walker/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/corrosive%20walker/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/corrosive%20walker/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/corrosive%20walker/10.png"
     ]
   },
   {
@@ -28129,6 +29533,18 @@
           "large": "//developer-paragon-cdn.epicgames.com/Images/E760803A6556DB749B301DA4A9BD606A05019BCC.png"
         }
       }
+    ],
+    "images": [
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/stasis%20rune/1.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/stasis%20rune/2.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/stasis%20rune/3.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/stasis%20rune/4.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/stasis%20rune/5.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/stasis%20rune/6.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/stasis%20rune/7.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/stasis%20rune/8.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/stasis%20rune/9.png",
+      "https://s3.us-east-2.amazonaws.com/paragoneapi-images/cards/stasis%20rune/10.png"
     ]
   }
 ]

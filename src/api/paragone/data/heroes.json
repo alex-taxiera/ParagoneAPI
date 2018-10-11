@@ -592,7 +592,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/5B2933708D70010989D96D22C3F48C91A323F62F.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/countess.png"
   },
   {
     "id": "0df5b4104955a71326ad15a36fd6ed62",
@@ -1163,7 +1164,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/DA1D2F2EA3A53078B1B9AB4F6D5F6BC4B5FF29A9.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/murdock.png"
   },
   {
     "id": "0fd6f97096f0356e479dc8ef23dcd819",
@@ -1766,7 +1768,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/DA20844CA43D8F530959EA0345073529B349CD0A.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/rampage.png"
   },
   {
     "id": "12311ccb1127311ec972ca48a72cfe47",
@@ -2350,7 +2353,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/769D217B9DEF6A4A086F2CD9D8089D4A2E4E8ACD.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/aurora.png"
   },
   {
     "id": "124004f32034b156d6eff2fa156817e5",
@@ -2945,7 +2949,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/05C009EF690C76BC542DA35566C2F7057728C4C6.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/shinbi.png"
   },
   {
     "id": "1c9876200832435a4b1a48545b149aad",
@@ -3519,7 +3524,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/C647E75715E1DEC7D5468D53B5365A7CE038358B.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/wraith.png"
   },
   {
     "id": "20a755dd3f6ef6fda5ac9bc1dfba365f",
@@ -4120,7 +4126,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/821AA19AF6EFB29A289B48969C4C568B8FCA3D35.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/gadget.png"
   },
   {
     "id": "214573d44df234eb620002c891d9e826",
@@ -4701,7 +4708,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/1A7C519F8A83AF7100C4FF05D7EEB755CB91DF47.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/narbash.png"
   },
   {
     "id": "24da1c795e78c4dd3c8dcb4a993d463c",
@@ -5304,7 +5312,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/1E07902F3EBD038D2491B7505A6980AABE782A3B.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/phase.png"
   },
   {
     "id": "2baa49db7d0f9fd4e9d5d9ef435626e7",
@@ -5897,7 +5906,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/7430D345BFC6F3125665AC9087452F7D60BE02CB.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/khaimera.png"
   },
   {
     "id": "350982a548a16ce00215b04dbe62a0b1",
@@ -6472,7 +6482,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/2355F2F17AFC84ADF556F479D747C719E76269AC.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/steel.png"
   },
   {
     "id": "393d70e8bfec50aca0c77441d7c0763b",
@@ -7061,7 +7072,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/CCC49A6715418DDBF8ABC1B8658291FD3C1A2F9A.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/wukong.png"
   },
   {
     "id": "398d1f10a3c68a0d9f506a6d0e4a6aa5",
@@ -7686,7 +7698,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/1E65810F8A4CE23646CB4CB55DC5787EE4E637EA.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/drongo.png"
   },
   {
     "id": "3a76b90019a3df4bd43387791edd865a",
@@ -8287,7 +8300,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/C181F2B85F7786A0E9C6600C6CE7873C9169B36D.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/lt. belica.png"
   },
   {
     "id": "44c9da1c2937c54e39e7957386d70482",
@@ -8887,7 +8901,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/73617DBA6B568953C817205C24C54D28702C3BB5.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/morigesh.png"
   },
   {
     "id": "4be101fc8e82688086b1a205aa24d2d8",
@@ -9450,7 +9465,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/2B0A4D2C61C3583A03CC85AF907747C09177AF27.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/yin.png"
   },
   {
     "id": "4f1658f6bb26fb1426aa2cbe103c42b3",
@@ -10036,7 +10052,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/A2ACAA487B903601FF470227EDF3CCD275E9BEDE.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/iggy & scorch.png"
   },
   {
     "id": "564380fe55ccc1014330d8123fa9810d",
@@ -10626,7 +10643,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/39B00563ABE12046E89350DECC8F7D7AE2699979.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/riktor.png"
   },
   {
     "id": "605b482ced792e4366dfb0d1b901bc2c",
@@ -11230,7 +11248,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/E5EB288D831AA7D1E8715FF35BDB5D7431508741.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/crunch.png"
   },
   {
     "id": "621951eb7e50d848c32e5fcf110d6776",
@@ -11812,7 +11831,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/38F59F4799C51DF68127A0C1BCEB58187349E119.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/gideon.png"
   },
   {
     "id": "65b1a0b9f56181d1aa75038066203db4",
@@ -12387,7 +12407,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/FC67EF13EB98D6225E45252F7486EF39267170CC.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/terra.png"
   },
   {
     "id": "69dc74a9182154c5edefa319f1e48720",
@@ -12998,7 +13019,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/805BD71EF4E300AF9AC1BE7904AD1F13266DA5D6.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/serath.png"
   },
   {
     "id": "6aff7bbee67452fde268dadc938093db",
@@ -13596,7 +13618,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/73CE082E6518D31012F3F018524E65B820A28A46.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/kwang.png"
   },
   {
     "id": "7399ecfbab365cdb8543da3dfbe830e6",
@@ -14187,7 +14210,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/A99486FDE48A8A2B08A7679D4FE9D74EF382953E.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/sevarog.png"
   },
   {
     "id": "786d477b6bf412e5a1ab0a2539e8b78c",
@@ -14780,7 +14804,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/CB91505F636B8AED0599BF3BBF1F37F70E1FA722.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/howitzer.png"
   },
   {
     "id": "82331aa4706a01589f9227e87ae43c25",
@@ -15370,7 +15395,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/E06A5C5D285AE0DE6EEFD6BB84D1C5AD1BCA7FF5.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/revenant.png"
   },
   {
     "id": "966e34d87f81ec512e0bb5be93b87bbf",
@@ -15944,7 +15970,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/C3205975D13F7C986921C80D1DF718C31FEDBD7F.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/twinblast.png"
   },
   {
     "id": "a36903a3aa6e38690b0a555e7f7f7e1d",
@@ -16551,7 +16578,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/FC28F46BFD3116724E5586CAAF9203686173EA99.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/zinx.png"
   },
   {
     "id": "a9c3c59927ff7313d52751a54b331ad2",
@@ -17121,7 +17149,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/A0E2638BBD09C0F8819780EACA7A59867A74817B.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/grim.exe.png"
   },
   {
     "id": "ce9955a7ce823ffc0ecc71902f039201",
@@ -17693,7 +17722,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/A54DB67F17143EBC1FA05DF571F399DDCFC8BF07.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/dekker.png"
   },
   {
     "id": "cf19dc5ac814474f6d317b2c28dff999",
@@ -18287,7 +18317,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/839386D6A7128C5BDD5894B6795DA05AD876EC04.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/kallari.png"
   },
   {
     "id": "d1bc0d62ee2c08a7a493f666bd514932",
@@ -18896,7 +18927,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/604F94219881166AF7537F3E2B216F41DBCAC6AF.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/the fey.png"
   },
   {
     "id": "d62ed5512ced144d4c5fe8bf3505c6a6",
@@ -19472,7 +19504,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/12B9B2F6325988A8BA70329D1C8376C1B6B3C180.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/greystone.png"
   },
   {
     "id": "dc8dd4e2ff11d6706866be8fb18e9208",
@@ -20044,7 +20077,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/9F2F5A9DFF105085A31E46AEA67389A7E062BA60.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/feng mao.png"
   },
   {
     "id": "f8fc4d76627c1121251760c28729bbff",
@@ -20649,7 +20683,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/BE69A2DF3BCF56F476CC47A231F831E035479E72.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/muriel.png"
   },
   {
     "id": "fb582fe82f0956269d7d656189d8b845",
@@ -21226,7 +21261,8 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/80B7787B044EC8B7884564E2527CE2ABD0FF685D.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/sparrow.png"
   },
   {
     "id": "fc010be1a0bf295a347944e1e97ba583",
@@ -21818,6 +21854,7 @@
           "icon": "//developer-paragon-cdn.epicgames.com/Images/28642CC693F9C6A2C0D1DE440FAD7AD585C5601F.png"
         }
       }
-    ]
+    ],
+    "icon": "https://s3.us-east-2.amazonaws.com/paragoneapi-images/heroes/grux.png"
   }
 ]

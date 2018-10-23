@@ -12,8 +12,9 @@ class Paragone {
   getData (key, id) {
     return this[key][id]
   }
-  getDataStore (key) {
-    return this[key]
+
+  getDataStoreValues (key) {
+    return Object.values(this[key])
   }
 
   getHero (id) {
@@ -24,10 +25,10 @@ class Paragone {
   }
 
   getHeroes () {
-    return this.getDataStore('heroes')
+    return this.getDataStoreValues('heroes')
   }
   getCards () {
-    return this.getDataStore('cards')
+    return this.getDataStoreValues('cards')
   }
 }
 

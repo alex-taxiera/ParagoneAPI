@@ -1,15 +1,19 @@
-const cards = require('express').Router()
+const cards = require('polka')()
+const send = require('@polka/send-type')
 const paragone = require('../paragone')
 
-cards.get('/', (req, res) => res.json(paragone.getCards()))
+cards.get('/', (req, res) => send(res, 200, paragone.getCards()))
 
 cards.get('/:cardId', (req, res) => {
   const card = paragone.getCard(req.params.cardId)
+
   if (!card) {
-    res.json(404, `no card found for id: ${req.params.cardId}`)
-  } else {
-    res.json(card)
+    return send(res, 404, {
+      error: `no card found for id: ${req.params.cardId}`
+    })
   }
+
+  send(res, 200, card)
 })
 
 module.exports = cards

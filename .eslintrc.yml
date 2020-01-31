@@ -1,0 +1,29 @@
+extends: standard
+rules: 
+  array-bracket-spacing: 
+    - error
+    - always
+  arrow-parens: 
+    - error
+  no-console:
+    - error
+  brace-style:
+    - error
+    - 1tbs
+    -
+      allowSingleLine: false
+  curly: 
+    - error
+    - all
+  max-len: 
+    - error
+    - 
+      ignoreComments: true
+      ignoreRegExpLiterals: true
+      ignoreUrls: true
+  no-lonely-if: 
+    - error
+  no-multi-spaces: 
+    - error
+    - 
+      ignoreEOLComments: true

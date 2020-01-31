@@ -1,44 +1,21 @@
 {
-  "name": "paragone-api",
-  "version": "1.0.0",
-  "description": "Partial fan implementation of Epic Games' shuttered MOBA Paragon.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node bin/dev.js"
+    "start": "node src/index.js",
+    "lint": "eslint src"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alex-taxiera/ParagoneAPI.git"
-  },
-  "keywords": [
-    "paragon",
-    "moba",
-    "epic",
-    "games",
-    "sad"
-  ],
-  "author": "Alex Taxiera",
-  "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/alex-taxiera/ParagoneAPI/issues"
-  },
-  "homepage": "https://github.com/alex-taxiera/ParagoneAPI#readme",
   "dependencies": {
-    "express": "^4.16.3",
-    "express-sslify": "^1.2.0",
-    "prop-types": "^15.6.2"
+    "@polka/send-type": "^0.5.2",
+    "polka": "^0.5.2"
   },
   "devDependencies": {
-    "body-parser": "^1.18.3",
-    "dotenv": "^6.1.0",
-    "eslint": "^5.6.1",
-    "eslint-config-standard": "^12.0.0",
-    "eslint-plugin-import": "^2.14.0",
-    "eslint-plugin-node": "^7.0.1",
-    "eslint-plugin-promise": "^4.0.1",
-    "eslint-plugin-standard": "^4.0.0",
-    "nodemon": "^1.18.4"
+    "dotenv": "^8.2.0",
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.20.0",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "nodemon": "^2.0.2"
   }
 }

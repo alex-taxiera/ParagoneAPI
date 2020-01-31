@@ -1,8 +1,8 @@
-const api = require('express').Router()
+const v1 = require('polka')()
 const heroes = require('./heroes.js')
 const cards = require('./cards.js')
 
-api.use('/heroes', heroes)
-api.use('/cards', cards)
+v1.use('/heroes', heroes)
+v1.use('/cards', cards)
 
-module.exports = api
+module.exports = v1

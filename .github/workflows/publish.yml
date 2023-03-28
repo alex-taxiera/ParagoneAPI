@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.github_token }}
       -
         name: Publish to Registry
-        uses: elgohr/Publish-Docker-Github-Action@master
+        uses: elgohr/Publish-Docker-Github-Action@v5
         with:
           name: ${{ secrets.DOCKER_USERNAME }}/${{ secrets.REPO }}
           tags: "${{ steps.buildnumber.outputs.build_number }},${{ steps.extract_branch.outputs.branch }},${{ steps.extract_branch.outputs.branch }}-${{ steps.buildnumber.outputs.build_number }}"
